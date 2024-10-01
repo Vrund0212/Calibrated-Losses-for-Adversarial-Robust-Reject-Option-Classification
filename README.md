@@ -11,4 +11,4 @@ This repository contains the implementation of algorithms to learn linear reject
 ## Usage
 ```bash
 # Example command to run the project
-npm start
+python -Wi main.py --model dsl --beta 0.5 --train_gamma 0.01 --test_gammas 0 0.01 0.1 --cost 0.2 --mu 1.2 --tqdm
