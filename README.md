@@ -4,9 +4,9 @@
 This repository contains the implementation of algorithms to learn linear reject option classifiers using the Double Sigmoid loss and Double Ramp loss when the data is adversarially perturbed ($\ell_{2}$).
 
 ## Installation
-1. Clone the repository: `[git clone https://github.com/yourusername/repository.git](https://github.com/Vrund0212/Calibrated-Losses-for-Adversarial-Robust-Reject-Option-Classification.git)`
-2. Navigate into the directory: `cd repository`
-3. Install dependencies: `npm install`
+1. Clone the repository: `https://github.com/Vrund0212/Calibrated-Losses-for-Adversarial-Robust-Reject-Option-Classification.git`
+2. Navigate into the directory: `cd Calibrated-Losses-for-Adversarial-Robust-Reject-Option-Classification`
+3. Install dependencies: `pip install -r requirements.yml`
 
 ## Usage
 ```bash
