@@ -1,0 +1,16 @@
+name: Adv-ROC
+channels:
+- pytorch
+- nvidia
+- conda-forge
+dependencies:
+- jupyter
+- matplotlib
+- numpy
+- pandas
+- python=3.12
+- pytorch
+- pytorch-cuda=12.1
+- scikit-learn
+- tqdm
+
