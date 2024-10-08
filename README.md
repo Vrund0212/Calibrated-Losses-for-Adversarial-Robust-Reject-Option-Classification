@@ -6,7 +6,7 @@ This repository contains the implementation of algorithms to learn linear reject
 ## Installation
 1. Clone the repository: `https://github.com/Vrund0212/Calibrated-Losses-for-Adversarial-Robust-Reject-Option-Classification.git`
 2. Navigate into the directory: `cd Calibrated-Losses-for-Adversarial-Robust-Reject-Option-Classification`
-3. Install dependencies: `pip install -r requirements.yml`
+3. Install dependencies: `pip install -r environment.yml`
 
 ## Explanation 
 1. There are two models that can be trained, one using the Double Sigmoid loss (--dsl) and another using the Double Ramp loss (--drl).
